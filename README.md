@@ -1,8 +1,9 @@
 # About this project:
 *Frontend-nanodegree-arcade-game* is a improvisation from the original and classic arcade game, **Frogger**.
 
-## Installation:
-Clone the repository and open 'index.html' through an http server.
+## Getting Started
+* Run it locally: clone/download this repository.
+* Open index.html in your browser.
 
 **How to play:**
 
