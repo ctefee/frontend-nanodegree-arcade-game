@@ -1,5 +1,5 @@
 # About this project:
-*Frontend-nanodegree-arcade-game* is a improvisation from the original and classic arcade game, Frogger.
+*Frontend-nanodegree-arcade-game* is a improvisation from the original and classic arcade game, **Frogger**.
 
 ## Installation:
 Clone the repository and open 'index.html' through an http server.
